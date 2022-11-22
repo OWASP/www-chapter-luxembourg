@@ -17,7 +17,7 @@ Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
 
-**The OWASP BeNeLux Days 2022 (Fall edition) - November 25th-26th 2022, Tilburg (NL) **
+**The OWASP BeNeLux Days 2022 (Fall edition) - November 25th-26th 2022, Tilburg (NL)**
 
 **Conferences days**
 
@@ -46,8 +46,13 @@ Attending the training and/or conference is completely free of charge, but regis
 
 Have a look at https://www.owaspbenelux.eu/ for the latest updates.
 
+
+
 ## News
 * **OWASP Luxembourg Chapter Meetup** Stay tuned for the upcoming meetup
+
+
+
 
 ## Get involved
 * **Volunteer to be a Speaker**:    
