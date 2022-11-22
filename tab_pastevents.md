@@ -11,6 +11,52 @@ tags: Luxembourg
 
 #### Past Events
 
+### OWASP Luxembourg - Board Members Post-Covid in.person meet-up
+
+This first in-person meeting was held between the OWASP old+new board members in Luxembourg. The purpose was to get acquainted and discuss the strategy for the Chapter and how to grow the activies and the team.
+
+### 𝗢𝗪𝗔𝗦𝗣 𝗕𝗲𝗡𝗲𝗟𝘂𝘅 𝗗𝗮𝘆𝘀 𝟮𝟬𝟮𝟮 - 𝗦𝗽𝗿𝗶𝗻𝗴 𝗘𝗱𝗶𝘁𝗶𝗼𝗻 - 𝗠𝗮𝗿𝗰𝗵 𝟯𝟭𝘀𝘁 𝗮𝗻𝗱 𝗔𝗽𝗿𝗶𝗹 𝟭𝘀𝘁, 𝟮𝟬𝟮𝟮 **!
+The IN PERSON and ON-SITE event will take place on 𝗠𝗮𝗿𝗰𝗵 𝟯𝟭𝘀𝘁 𝗮𝗻𝗱 𝗔𝗽𝗿𝗶𝗹 𝟭𝘀𝘁, 𝟮𝟬𝟮𝟮 (not an April fools joke!), in 𝗞𝗼𝗿𝘁𝗿𝗶𝗷𝗸 (𝗕𝗲𝗹𝗴𝗶𝘂𝗺).
+
+If you want to take part, don't forget to secure your training and/or conference ticket: https://www.eventbrite.com/e/owasp-benelux-days-spring-2022-tickets-277402597637
+
+The program:
+On March 31st, you can join (only) one of the three OWASP trainings:
+
+* ModSecurity and the OWASP Core Rule Set (CRS) (by Christian Folini)
+* OWASP SAMM by Sebastien Deleersnyder
+* SKF Workshop - Offensive and Defensive crash course using SKF Labs (by Glenn ten Cate)
+
+On April 1st we have a full day conference program with 7 renowned speakers:
+
+* The paved path methodology: a human-centered approach to software security (by Pieter De Cremer)
+* Optimize resilience towards antifragility, a secure cloud translation (by Edzo Botjes)
+* Brace for your next Race - Race conditions in Servlets and Controllers (by Giuseppe Trovato)
+* OWASP-SKF Learning Platform - There is no right or wrong, only fun and boring (by Glenn ten Cate)
+* Using openCRE.org to master application security (by Rob van der Veer)
+* A Tour Of OWASP ISVS (by Théo Rigas)
+* Securing React with Trusted Types (by Philippe De Ryck)
+
+On Thursday evening we planned a social gathering at the HoWest Penta Campus in Kortrijk!
+
+Attendance to the conference is free of charge, but registration is mandatory so make sure to register on time!
+If you register for a training, please consider supporting the #OWASP by becoming a member.
+
+Registration link:https://www.eventbrite.com/e/owasp-benelux-days-spring-2022-tickets-277402597637
+
+
+### Meeting#2022-01 - Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3" by Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
+Tuesday March 8th 2022 - 18:0-18:45 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
+Subject: Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3"
+
+Description of the talk:
+OWASP’s Application Security Verification Standard (ASVS) is one of the few comprehensive guides of security requirements for applications. The 4.0 version, released in March 2019 represents a significant update with many new features as well as structural changes. In this talk, Josh, one of the project co-leaders, will go through what the ASVS is and how it is put together with a particular focus on what has changed in this new version. He will also talk through some of the more interesting new requirements and show how you can help shape the future of this important standard.
+
+About the speaker: Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
+<img src="/assets/images/josh headshot 3.jpg" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
+
+Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
+
 ### OWASP BeNeLux Days 25 November 2021 (CANCELED on D-3 due to COVID situation on Belgium)
 Join us for the OWASP BeNeLux Days 2021. Our first physical event since the start of the outbreak will take place on 25 and 26 November 2021, in Bruges (Belgium).
 Thursday 25 November: free 1-day trainings:
