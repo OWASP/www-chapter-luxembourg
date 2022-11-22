@@ -25,22 +25,22 @@ The OWASP BeNeLux Days 2022 (Fall edition) consist of 2 days:
 
 On Thursday November 24th, we have a full day conference program with a list of renowned speakers:
 
-Grant Ongers with 100x your AppSec Program
-Wouter Hindriks with Incident Response without compromise
-Daniel Kapellmann Zafra & Ken Proska with Incontroller - ICS malware
-Bram Patelski with Security by Meme
-Ben Brucker with Social engineering
-Koen Yskout with a presentation of findings on threat modeling in Dutch companies
-More to be announced soon ...
+* Grant Ongers with 100x your AppSec Program
+* Wouter Hindriks with Incident Response without compromise
+* Daniel Kapellmann Zafra & Ken Proska with Incontroller - ICS malware
+* Bram Patelski with Security by Meme
+* Ben Brucker with Social engineering
+* Koen Yskout with a presentation of findings on threat modeling in Dutch companies
+* More to be announced soon ...
 
 **Free trainings day**
 On Friday November 25th, you can join 1 of the free trainings:
 
-Training OWASP MASTG (by Jeroen Beckers)
-Training OWASP SAMM (by Seba Deleersnyder)
-Training OpenKAT (by Brenno de Winter)
-Training Securing DevOps pipelines (by TBD)
-These trainings are full day trainings run in parallel, so you can only join at most one! Registering for multiple trainings will result in a cancellation of all!
+* Training OWASP MASTG (by Jeroen Beckers)
+* Training OWASP SAMM (by Seba Deleersnyder)
+* Training OpenKAT (by Brenno de Winter)
+* Training Securing DevOps pipelines (by TBD)
+* These trainings are full day trainings run in parallel, so you can only join at most one! Registering for multiple trainings will result in a cancellation of all!
 
 Attending the training and/or conference is completely free of charge, but registration is required. To support the OWASP organisation, consider to become a member, it's only US$50! Check out the Membership page to find out more.
 
