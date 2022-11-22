@@ -11,7 +11,7 @@ tags: Luxembourg
 
 #### Past Events
 
-### OWASP Luxembourg - Board Members Post-Covid in.person meet-up
+### OWASP Luxembourg - Board Members Post-Covid in-person meet-up (12 September 2022, Kirchberg, Luxembourg)
 
 This first in-person meeting was held between the OWASP old+new board members in Luxembourg. The purpose was to get acquainted and discuss the strategy for the Chapter and how to grow the activies and the team.
 
