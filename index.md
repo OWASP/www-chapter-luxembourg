@@ -16,24 +16,38 @@ meetup-group: owasp-luxembourg-group
 Moien! Welcome to the OWASP Luxembourg chapter homepage!
 
 ## Upcoming Chapter events
-**Meeting#2022-01 - Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3" by Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security**
-Tuesday March 8th 2022 - 18:0-18:45 UTC/GMT+2 RSVP in  [our MeetUp event here](https://www.meetup.com/owasp-luxembourg-group/events/281144615) 
 
-**Subject:** Introduction to the OWASP Application Security Verification Standard (ASVS) v4.0.3"
+**The OWASP BeNeLux Days 2022 (Fall edition) - November 25th-26th 2022, Tilburg (NL) **
 
-**Description of the talk:** 
-OWASP’s Application Security Verification Standard (ASVS) is one of the few comprehensive guides of security requirements for applications. The 4.0 version, released in March 2019 represents a significant update with many new features as well as structural changes. In this talk, Josh, one of the project co-leaders, will go through what the ASVS is and how it is put together with a particular focus on what has changed in this new version. He will also talk through some of the more interesting new requirements and show how you can help shape the future of this important standard.
+**Conferences days**
 
-**About the speaker:** Josh Grossman, OWASP ASVS project co-leader, CTO at Bounce Security
-<img src="/assets/images/josh headshot 3.jpg" alt=" Josh Grossman, OWASP ASVS project co-Leader" align="left" width="200" height="200" />
+The OWASP BeNeLux Days 2022 (Fall edition) consist of 2 days:
 
-Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
+On Thursday November 24th, we have a full day conference program with a list of renowned speakers:
 
-**Who should attend?**
-Both existing OWASP members and people unfamiliar with OWASP. Information security practitioners of all levels, IT professionals, and business leaders. Developers, development managers, product owners, QA professionals, program managers, and anyone involved in building software, etc.
+Grant Ongers with 100x your AppSec Program
+Wouter Hindriks with Incident Response without compromise
+Daniel Kapellmann Zafra & Ken Proska with Incontroller - ICS malware
+Bram Patelski with Security by Meme
+Ben Brucker with Social engineering
+Koen Yskout with a presentation of findings on threat modeling in Dutch companies
+More to be announced soon ...
+
+**Free trainings day**
+On Friday November 25th, you can join 1 of the free trainings:
+
+Training OWASP MASTG (by Jeroen Beckers)
+Training OWASP SAMM (by Seba Deleersnyder)
+Training OpenKAT (by Brenno de Winter)
+Training Securing DevOps pipelines (by TBD)
+These trainings are full day trainings run in parallel, so you can only join at most one! Registering for multiple trainings will result in a cancellation of all!
+
+Attending the training and/or conference is completely free of charge, but registration is required. To support the OWASP organisation, consider to become a member, it's only US$50! Check out the Membership page to find out more.
+
+Have a look at https://www.owaspbenelux.eu/ for the latest updates.
 
 ## News
-* **OWASP BeNeLux Days 2022** Stay tuned and keep an eye on https://www.owaspbenelux.eu
+* **OWASP Luxembourg Chapter Meetup** Stay tuned for the upcoming meetup
 
 ## Get involved
 * **Volunteer to be a Speaker**:    
