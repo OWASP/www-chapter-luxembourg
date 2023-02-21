@@ -7,7 +7,3 @@
 * [Twitter](https://twitter.com/LuxembourgOwasp)
 * [LinkedIn Page](https://www.linkedin.com/company/owasp-luxembourg/)
 
-### Board Members
-* [Aurelien DIAS - Board Member](mailto:aurelien.dias@owasp.org)
-* [Daniel Morales - Board Member](mailto:d.morales@owasp.org)
-* Interested? We are looking for board members !
